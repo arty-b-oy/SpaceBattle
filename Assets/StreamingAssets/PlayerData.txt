@@ -1,0 +1,5 @@
+{
+  "LevelPlayer": 7,
+  "IdAmmunition": 0,
+  "GameProgress": 1
+}

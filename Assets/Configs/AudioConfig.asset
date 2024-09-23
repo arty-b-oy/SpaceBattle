@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7df7f86ea6ddf0a429b30280a36c39e3, type: 3}
+  m_Name: AudioConfig
+  m_EditorClassIdentifier: 
+  FonMusic: {fileID: 8300000, guid: 577c67b371a55324690ff8d3cd7bc258, type: 3}
+  GamePlayMusic: {fileID: 8300000, guid: cbcff4ab684a89343a147a88a9a3b886, type: 3}
+  BossFightMusic: {fileID: 8300000, guid: adaf7c0db5d9ccd41989ede5cb42efcd, type: 3}
